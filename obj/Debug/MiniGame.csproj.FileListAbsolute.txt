@@ -1,0 +1,6 @@
+/Users/dannielzhang/Projects/MiniGame/MiniGame/bin/Debug/MiniGame.exe
+/Users/dannielzhang/Projects/MiniGame/MiniGame/bin/Debug/MiniGame.pdb
+/Users/dannielzhang/Projects/MiniGame/MiniGame/obj/Debug/MiniGame.csproj.AssemblyReference.cache
+/Users/dannielzhang/Projects/MiniGame/MiniGame/obj/Debug/MiniGame.csproj.CoreCompileInputs.cache
+/Users/dannielzhang/Projects/MiniGame/MiniGame/obj/Debug/MiniGame.exe
+/Users/dannielzhang/Projects/MiniGame/MiniGame/obj/Debug/MiniGame.pdb
