@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazor.Extensions.Canvas" Path="/Users/dannielzhang/.nuget/packages/blazor.extensions.canvas/1.1.1/build/../staticwebassets/" />
+  <ContentRoot BasePath="_content/BootstrapBlazor" Path="/Users/dannielzhang/.nuget/packages/bootstrapblazor/5.0.37/build/../staticwebassets/" />
+  <ContentRoot BasePath="/" Path="/Users/dannielzhang/Projects/BlazorApp/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
